@@ -12,3 +12,11 @@ reasons why km is so adorable:
 - km is a good cat
 - km is a good companion
 - km loves to eat meatgit
+<<<<<<< HEAD
+=======
+
+km's beloved maw maw's
+- boots
+- leopard
+- baby leopard
+>>>>>>> feature-more-km-info
