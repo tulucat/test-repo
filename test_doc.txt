@@ -1,3 +1,6 @@
 This is a test
 km is cool! 
 added in quicktest
+km is cool!
+added by main
+added by main again
